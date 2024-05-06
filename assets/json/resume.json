@@ -23,22 +23,22 @@
       "name": "Absa South Africa",
       "position": "Lead Platform Engineer",
       "url": "https://www.absa.africa",
-      "startDate": "2017-07-01",
+      "startDate": "17-07",
       "endDate": ""
     },
     {
       "name": "Multichoice South Africa",
       "position": "Senior Embedded Software Specialist",
       "url": "https://www.multichoice.co.za",
-      "startDate": "2010-01",
-      "endDate": "2017-06"
+      "startDate": "10-01",
+      "endDate": "17-06"
     },
     {
       "name": "Altech UEC Technologies",
       "position": "Senior Engineer",
       "url": "httpwww.mediaverge.co.za/",
-      "startDate": "2005-01",
-      "endDate": "2009-05"
+      "startDate": "05-01",
+      "endDate": "09-05"
     }
   ],
   "education": [
@@ -66,7 +66,7 @@
     },
     {
       "institution": "University of Kwa-Zulu Natal",
-      "location": "Durban, South Africa",
+      "location": "Dbn, South Africa",
       "url": "https://www.ukzn.ac.za/",
       "area": "Electronic Engineering",
       "studyType": "BSc",

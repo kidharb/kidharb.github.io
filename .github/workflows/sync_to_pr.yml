@@ -15,7 +15,6 @@ jobs:
           with:
           # submodules: true
           token: ${{ secrets.WORKFLOW_SYNC_PAT }}
-          
       - name: actions-template-sync
         uses: AndreasAugustin/actions-template-sync@v1
         with:

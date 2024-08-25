@@ -35,23 +35,16 @@
     },
     {
       "name": "Altech UEC Technologies",
-      "position": "Senior Engineer",
       "url": "http://www.mediaverge.co.za/",
+      "position": "Senior Engineer",
       "startDate": "2005-01-04",
       "endDate": "2009-05-31"
-    },
-    {
-      "name": "Absa South Africa",
-      "position": "Lead Platform Engineer",
-      "url": "https://www.absa.africa",
-      "startDate": "2017-07-01",
-      "endDate": "current"
     }
   ],
   "education": [
     {
       "institution": "University of Witwatersrand, Johannesburg, South Africa",
-      "location": "Johannesburg, South Africa",
+      "location": "Jhb, South Africa",
       "url": "https://www.wits.ac.za/",
       "area": "Computer Science",
       "studyType": "MSc",

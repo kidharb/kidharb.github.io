@@ -58,7 +58,7 @@
       "startDate": "2019-01-01",
       "endDate": "2023-10-15",
       "score": "65",
-      "courses": ["Machine Learning","High Performance Computation","Computer Vision","Image Processing"]
+      "courses": ["Machine Learning", "High Performance Computation", "Computer Vision", "Image Processing"]
     },
     {
       "institution": "University of South Africa",
@@ -80,7 +80,7 @@
       "startDate": "2000-01-01",
       "endDate": "2004-12-15",
       "score": "65",
-      "courses": ["Embedded Systems","Digital Signal Processing"]
+      "courses": ["Embedded Systems", "Digital Signal Processing"]
     }
   ],
   "languages": [

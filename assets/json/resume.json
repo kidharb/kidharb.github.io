@@ -21,15 +21,15 @@
   "work": [
     {
       "name": "Absa South Africa",
-      "url": "https://www.absa.africa",
       "position": "Lead Platform Engineer",
+      "url": "https://www.absa.africa",
       "startDate": "2017-07-01",
       "endDate": "current"
     },
     {
       "name": "Multichoice South Africa",
-      "url": "https://www.multichoice.co.za",
       "position": "Senior Embedded Software Specialist",
+      "url": "https://www.multichoice.co.za",
       "startDate": "2010-01-10",
       "endDate": "2017-06-30"
     },
@@ -44,7 +44,7 @@
   "education": [
     {
       "institution": "University of Witwatersrand, Johannesburg, South Africa",
-      "location": "Johannesburg, South Africa",
+      "location": "Jhb, South Africa",
       "url": "https://www.wits.ac.za/",
       "area": "Computer Science",
       "studyType": "MSc",
